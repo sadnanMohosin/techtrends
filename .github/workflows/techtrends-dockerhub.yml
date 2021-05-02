@@ -30,4 +30,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: chaberta70/techtrends:latest
+          tags: sadnan0014/techtrends:latest
